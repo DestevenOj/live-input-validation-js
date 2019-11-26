@@ -1,1 +1,1 @@
-# live-input-validation-js
+# live-input-validation
